@@ -17,7 +17,7 @@ Atuo com back e front, automação, B.I e Inteligência Artificial.
 
 ### 📊 O que eu crio
 - Agentes MCP e fluxos de automação inteligentes  
-- Dashboards e relatórios B.I com Django  
+- Dashboards e relatórios B.I com Django, e Power B.I
 - Aplicativos mobile integrados (React Native + API REST)  
 - Integrações com APIs (Mercado Livre, Movidesk, Stripe etc.)
 
@@ -30,9 +30,9 @@ Atuo com back e front, automação, B.I e Inteligência Artificial.
 ---
 
 ### 📫 Onde me achar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/...)  
-[![Email](https://img.shields.io/badge/Email-leonardo%40example.com-red)](mailto:leonardo@example.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/...)
+[![LinkedIn][(https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/...](https://www.linkedin.com/in/leonardo-araujo-213626173/))  
+[leokaique7@gmail.com)  
+[[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/...](https://github.com/Kaique-010/Kaique-010))
 
 ---
 
