@@ -1,7 +1,7 @@
 <!-- 🔥 PERFIL DARK NEON DELUXE - by Leo -->
 
 <p align="center">
-  <img src="https://i.ibb.co/M5vKDsS/github-banner-leo.png" alt="Leo Banner - Python Django React Dev" width="100%" />
+ 
 </p>
 
 <h1 align="center">⚡ Leo Araújo | Fullstack & AI Developer ⚡</h1>
