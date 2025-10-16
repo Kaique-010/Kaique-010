@@ -4,7 +4,7 @@
  
 </p>
 
-<h1 align="center">⚡ Leo Araújo | Fullstack & AI Developer ⚡</h1>
+<h1 align="center">⚡ Leo | Fullstack & AI Developer ⚡</h1>
 
 <p align="center">
   <b>Python/Django • React Native • LangChain • B.I • Automação • MCPs</b><br>
