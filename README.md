@@ -31,6 +31,7 @@
 🔹 [**Marketplace SPS**](https://github.com/Kaique-010/marketplace_sps) — Marketplace multibanco com IA e Stripe  
 🔹 [**MCP Postgres Agent**](https://github.com/Kaique-010/mcp_postgres) — Agente LLM que entende SQL natural  
 🔹 [**Fitness Planner**](https://github.com/Kaique-010/FITNESS_PLANNER) — Planejador de dietas e treinos com IA  
+🔹 [**Agentes-Ai**](https://github.com/Kaique-010/multi-ai) — Multiagentes Com Toolcalling, Rag e MCPs  
 
 ---
 
